@@ -14,7 +14,7 @@
     "purejs"
   ],
   "dependencies": {
-    "moment": "2.9.0"
+    "moment": "^2.9.0"
   },
   "license": "MIT",
   "ignore": [
